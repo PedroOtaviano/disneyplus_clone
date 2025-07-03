@@ -11,8 +11,12 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "gulp": "^5.0.1",
+    "gulp": "^4.0.2",
+    "gulp-dart-sass": "^1.1.0",
     "gulp-sass": "^6.0.1",
     "sass": "^1.89.2"
+  },
+  "dependencies": {
+    "gulp-imagemin": "^7.1.0"
   }
 }
